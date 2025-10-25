@@ -1,18 +1,20 @@
 # Bangladesh Police Crime Statistics Analysis & Prediction
 
 A complete data analysis and forecasting project built using **Python** to explore, visualize, and predict crime trends across different divisions and years in Bangladesh.  
+
 This project combines **Data Preprocessing**, **Statistical Modeling**, **Machine Learning**, and **Interactive Visualizations** to provide deep insights into national crime patterns from **2019 to 2025**.
 
 ---
 ## 🔗 Live Preview
-Explore The **Interactive Visualizations** below:
-👉 **Dashboard:** [Streamlit](https://crime-analysis-dashboard-hdpumevuzmhuxmxnv4ngcx.streamlit.app/)
+Explore The **Interactive Visualizations**:
+👉 **Dashboard:** [View](https://crime-analysis-dashboard-hdpumevuzmhuxmxnv4ngcx.streamlit.app/)
 
 ## Project Description
 
 The **Bangladesh Police Crime Statistics Analysis** project is designed to analyze real crime data reported across Bangladesh police units.  
 It includes both **Exploratory Data analysis (EDA)** and **Predictive Modeling** steps. Using libraries like **Pandas**, **Matplotlib**, **Seaborn**, and **Plotly**, it visualizes seasonal patterns, high-crime regions, and top crime categories.  
 The system also uses **ARIMA**, **Exponential Smoothing**, **Linear Regression**, and **Random Forest** models to forecast upcoming crime trends for each division.
+
 This project can help policymakers, data analysts, and law enforcement departments **Identify Trends, Allocate Resources**, and **Take Preventive Actions** based on data-driven insights.
 
 ---
