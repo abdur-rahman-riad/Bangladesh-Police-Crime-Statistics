@@ -49,3 +49,12 @@ Below are some sample visualizations generated from this project:
 ---
 ### Top 5 Police Units (2019-2025)
 ![Top 5 Police Units](https://drive.google.com/uc?export=view&id=10swnPZs5eGHnxy1WjR2PSUsiY57TnAZo)
+
+---
+
+## Co-Authored
+
+**Mohammad Abdur Rahman (Riad)**  
+🎓 M.Sc. in CSE (Data Science), Daffodil International University  
+📧 Email: [rahmanriad.cse@gmail.com]  
+🌐 [https://www.linkedin.com/in/rahmanriad/]
